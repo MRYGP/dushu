@@ -1,0 +1,24 @@
+# 操作系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 临时文件
+*.tmp
+*.bak
+*.log
+
+# 个人隐私笔记（不上传）
+reading-notes/private/
+action-logs/private/
+
+# 草稿文件
+*-draft.md
+*-草稿.md
