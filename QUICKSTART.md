@@ -3,15 +3,19 @@
 ## 🚀 5步开始使用
 
 ### Step 1: 配置Claude Projects（5分钟）
-
 ```bash
 1. 访问 https://claude.ai/projects
 2. 创建新项目："思考，推理，读书"
 3. 查看详细步骤：claude-projects/快速开始.md
 ```
 
-### Step 2: 选择第一本书（1分钟）
+**或者选择其他平台**：
+- [DEEPSEEK版本](claude-projects/DEEPSEEK-读书系统v3.1-简化版.md) - 最简单，开箱即用
+- [Google AI Studio版本](claude-projects/Google-AI-Studio-读书系统v3.1.md) - 长文本记忆强大
 
+---
+
+### Step 2: 选择第一本书（1分钟）
 - [创业者书单（50本）](book-lists/创业者书单-50本.md)
 - [投资者书单（52本）](book-lists/投资者书单-52本.md)
 
@@ -20,23 +24,25 @@
 - 投资者 → 《巴菲特致股东信》
 - 管理者 → 《原则》
 
+---
+
 ### Step 3: 开始阅读（30-60分钟/天）
-
-在Claude Projects中输入：
-
+在Claude Projects（或其他平台）中输入：
 ```
 我想读《从0到1》
 ```
 
-### Step 4: 记录笔记（边读边记）
+---
 
+### Step 4: 记录笔记（边读边记）
 选择合适的模板：
 - [理论类书籍模板](reading-notes/templates/理论类书籍模板.md)
 - [案例类书籍模板](reading-notes/templates/案例类书籍模板.md)
 - [传记类书籍模板](reading-notes/templates/传记类书籍模板.md)
 
-### Step 5: 实践应用（持续）
+---
 
+### Step 5: 实践应用（持续）
 记录行动日志：
 - [行动日志模板](action-logs/template-行动日志模板.md)
 
@@ -75,6 +81,7 @@
 - [完整使用指南](docs/如何使用本仓库.md)
 - [常见问题FAQ](docs/常见问题FAQ.md)
 - [Claude Projects配置](claude-projects/配置指南.md)
+- [版本对比](claude-projects/README.md#-版本对比) - 选择适合你的平台
 - [三湘问道知识库](https://github.com/MRYGP/sanxiangwendao)
 
 ---
@@ -83,7 +90,7 @@
 
 ### 第一次使用
 1. 先读 [5分钟快速开始](claude-projects/快速开始.md)
-2. 配置Claude Projects
+2. 配置Claude Projects（或选择其他平台）
 3. 从一本简单的书开始（如《从0到1》）
 
 ### 遇到问题
@@ -95,6 +102,30 @@
 1. 使用模板记录笔记（不要从头写）
 2. 边读边记，不要事后补
 3. 定期回顾（每周/每月）
+
+---
+
+## 🎯 平台选择建议
+
+### 推荐Claude Projects v3.0（最佳体验）
+- ✅ 自动搜索仓库理论
+- ✅ 强制理论关联
+- ✅ 最佳用户体验
+- ⚠️ 需要Claude付费版
+
+### 备选DEEPSEEK v3.1（最简单）
+- ✅ 开箱即用，无需配置
+- ✅ 可选理论关联
+- ✅ 完全免费（或更便宜）
+- ⚠️ 需要手动粘贴理论文档
+
+### 备选Google AI Studio v3.1（长文本记忆）
+- ✅ 长文本记忆强大
+- ✅ 一次性粘贴多篇文档
+- ✅ 强制理论关联
+- ⚠️ 需要手动提供文档
+
+查看详细对比：[版本对比](claude-projects/README.md#-版本对比)
 
 ---
 
